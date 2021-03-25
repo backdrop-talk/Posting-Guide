@@ -1,5 +1,5 @@
 # Posting-Guide
-Information about where to post, what to post, how to post and why to post.
+New? Start here: Information about where to post, what to post, how to post and why to post.
 
 ## Overview
 Backdrop Discussions is a GitHub organization that houses all formal discussion about the growth and direction of Backdrop.
