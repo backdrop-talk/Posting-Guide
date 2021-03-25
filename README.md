@@ -12,7 +12,7 @@ Discussions are separated by "key topics" as Github Repositories. This allows a 
 Find the repo topic that makes the most sense for the question or concern you have. If you can't find a topic, either use the -General repo topic or choose one that is the closest. Worst case someone may move the discussion to a different repo, best case you picked the right spot. In any case, the -General repo is a catch-all for everything.
 
 ## What to post
-Post any discussion that is related to the growth and progression of Backdrop as a community and overall project. If you need to bring up a concern with the project code, contrib code or any of the backdrop websites, use the respective organizations and repos for those topics. Everything else that is formal discussion about Backdrops growth goes inside the [https://github.com/backdrop-talk/](Backdrop-Talk) organization.
+Post any discussion that is related to the growth and progression of Backdrop as a community and overall project. If you need to bring up a concern with the project code, contrib code or any of the backdrop websites, use the respective organizations and repos for those topics. Everything else that is formal discussion about Backdrops growth goes inside the [https://github.com/backdrop-talk/](https://github.com/backdrop-talk/) organization.
 
 ## How to post
 Start by posting in the **Discussion** tab unless you have a call-to-action on a physical document that needs to be created or ammended.
