@@ -2,7 +2,7 @@
 New? Start here! 
 
 ## Overview
-Backdrop Discussions is a GitHub organization that houses all formal discussion about the growth and direction of Backdrop.
+Backdrop Talk is a GitHub organization that houses all formal discussion about the growth and direction of Backdrop.
 
 Here you will find policies and guidelines that have been formed by the community over the years and you are welcome to check those out or help build on them.
 
